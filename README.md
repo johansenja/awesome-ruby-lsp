@@ -20,7 +20,7 @@ A curated list of extensions for [Ruby-LSP](https://github.com/Shopify/ruby-lsp)
 
 | Name | For | First released | Capabilities |
 | --- | --- | --- | ------ |
-| [ruby-lsp-rake](https://rubygems.org/gems/ruby-lsp-rake) | [rake](https://github.com/ruby/rake) | 2024-11-30 | Hover, go-to-definition, code lens |
+| [ruby-lsp-rake](https://github.com/kozy4324/ruby-lsp-rake) | [rake](https://github.com/ruby/rake) | 2024-11-30 | Hover, go-to-definition, code lens |
 
 ### Web / Apps
 
@@ -45,7 +45,7 @@ A curated list of extensions for [Ruby-LSP](https://github.com/Shopify/ruby-lsp)
 
 | Name | For | First released | Capabilities |
 | --- | --- | --- | ------ |
-| [ruby-lsp-brakeman](https://rubygems.org/gems/ruby-lsp-brakeman) | [brakeman](https://github.com/presidentbeef/brakeman) | 2025-01-09 | Diagnostics |
+| [ruby-lsp-brakeman](https://github.com/presidentbeef/ruby-lsp-brakeman) | [brakeman](https://github.com/presidentbeef/brakeman) | 2025-01-09 | Diagnostics |
 
 ### Testing
 
