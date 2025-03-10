@@ -8,13 +8,24 @@ A curated list of extensions for [Ruby-LSP](https://github.com/Shopify/ruby-lsp)
 
 </div>
 
-## Categories
 
-### Ruby-LSP itself
+## Ruby-LSP itself
 
 | Name | Description | First released | Capabilities |
 | --- | --- | --- | ------ |
 | [ruby-lsp](https://github.com/Shopify/ruby-lsp) | An opinionated language server for Ruby | 2022-03-01 | Hover, autocomplete, go-to-defintion, document symbols, folding, highlighting & more |
+
+## Included by default
+
+Gems which include ruby-lsp support by default - no extra dependencies needed.
+
+| Name | Since version | Capabilities | Category | Docs / configuration |
+| --- | --- | ------ | --- | --- |
+| [standardrb](https://github.com/standardrb/standard/) | v1.39.1 | Code actions, diagnostics, formatting | Code quality & Linting | https://github.com/standardrb/standard/wiki/IDE:-vscode#using-ruby-lsp |
+
+## Standalone Gems
+
+Gems which can be installed alongside an existing gem (listed in "For" column), to provide support for it.
 
 ### General
 
