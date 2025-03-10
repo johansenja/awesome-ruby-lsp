@@ -19,9 +19,9 @@ A curated list of extensions for [Ruby-LSP](https://github.com/Shopify/ruby-lsp)
 
 Gems which include ruby-lsp support by default - no extra dependencies needed.
 
-| Name | Since version | Capabilities | Category |
-| --- | --- | ------ | --- |
-| [standardrb](https://github.com/standardrb/standard/) | v1.39.1 | Code actions, diagnostics, formatting | Code quality & Linting |
+| Name | Since version | Capabilities | Category | Docs / configuration |
+| --- | --- | ------ | --- | --- |
+| [standardrb](https://github.com/standardrb/standard/) | v1.39.1 | Code actions, diagnostics, formatting | Code quality & Linting | https://github.com/standardrb/standard/wiki/IDE:-vscode#using-ruby-lsp |
 
 ## Standalone Gems
 
